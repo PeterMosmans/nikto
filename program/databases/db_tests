@@ -6793,3 +6793,5 @@
 "006829","0","1","/stats","GET","Statistics\sReport","","","","","HAProxy stats page found.","",""
 "006830","0","1","/haproxy_stats","GET","Statistics\sReport","","","","","HAProxy stats page found.","",""
 "006831","0","2b","/cgi-bin/info.cgi","GET","200","","Model=WDMyCloud","","","WD My Cloud (Mirror) NAS found. Default credentials for the login on / is 'admin' with an empty password.","",""
+"006832","637","23","/~ftp/","GET","200","","","","","Allowed to browse ftp user's home directory.","",""
+"006833","3092","3","/web.config.local","GET","<configuration>","","200","","","ASP config (development) file is accessible.","",""
