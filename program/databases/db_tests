@@ -6795,3 +6795,4 @@
 "006831","0","2b","/cgi-bin/info.cgi","GET","200","","Model=WDMyCloud","","","WD My Cloud (Mirror) NAS found. Default credentials for the login on / is 'admin' with an empty password.","",""
 "006832","637","23","/~ftp/","GET","200","","","","","Allowed to browse ftp user's home directory.","",""
 "006833","3092","3","/web.config.local","GET","<configuration>","","200","","","ASP config (development) file is accessible.","",""
+"006834","0","b","/wp-login.php","GET","403","","","","","Password-protected Wordpress login page found","",""
